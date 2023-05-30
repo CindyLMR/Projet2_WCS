@@ -10,5 +10,5 @@ Après cette étape analytique, sur la fin du projet, vous utiliserez des algori
  
  # DANS CE REPO : 
  
- - Le PDF de présentation (normalement sur Canva et interactif)
+ - Le PDF de présentation contenant l'analyse de données. Celui-ci est aussi accessible sur Canva : https://www.canva.com/design/DAFjofqE-Zg/MReNnagoDnJ4hzRRPwpIkQ/edit?utm_content=DAFjofqE-Zg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
  - Le streamlit du système de recommandation a été fait en local et ne se trouve pas dans le repo. Pour info, le système de recommandation a été fait avec la méthode des proches voisins
